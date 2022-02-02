@@ -1,0 +1,20 @@
+{
+	"title"		:	"ezdmg",
+	"type"		:	"combat",
+	"tags"		:	[ "combat", "weapons", "destructible" ],
+	"description":	"blow up all the things",
+	"ignore"	:
+	[
+		"*.psd",
+		"*.vcproj",
+		"*.svn*",
+		"*.txt",
+		"*.xcf",
+		".git*",
+		".gitignore",
+		"git-hooks-pre-commit",
+		"gitrid.sh",
+		"license",
+		"readme.md",
+	]
+}
